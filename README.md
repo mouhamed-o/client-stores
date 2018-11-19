@@ -1,4 +1,3 @@
-# stores-map
 
 ## Project setup
 ```
